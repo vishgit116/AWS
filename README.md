@@ -1,5 +1,3 @@
-#git
-
 1. Create github account
 2. Create repository(Project Name)
 3. Open repository and click on clone/download - and copy url :
@@ -78,8 +76,16 @@ step 2 : now push; sometimes it will ask per the github password.
 > git push origin master
 
 
+Branch:
+* git branch > to see all the branches 
+* git branch -a > to see all the branches 
+* git branch vishnu > to create new branch vishnu
+* git branch -d vishnu 	> to delete branch vishnu
+* git branch -D vishnu	> to delete brancg forcefully
+* git branch -m bairi   > to rename branch name from vishnu to bairi
 
-
+move into different branch
+git checkout <branchname> 
 
 
  

@@ -1,3 +1,7 @@
+#Git - for beginners 
+
+* welcome to git world
+
 1. Create github account
 2. Create repository(Project Name)
 3. Open repository and click on clone/download - and copy url :

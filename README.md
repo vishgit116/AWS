@@ -76,6 +76,16 @@ step 1 : pull all the files from remote repository
 >git push origin master
 step 2 : now push; sometimes it will ask per the github password.
 > git push origin master
+-------------------------------
+
+Branches :
+
+* git branch -->> to know all the branches in git
+* git branch vishnu -->> to creare new branch vishnu in git
+* git branch -d vishnu -->> to delete branch name vishnu
+* git branch -D vishnu -->> to delete forcefully
+* git branch -m bairi -->> to rename vishnu branch to bairi
+* git branch -a  -->> to see all the branches
 
 
 
